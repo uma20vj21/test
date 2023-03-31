@@ -1,0 +1,15 @@
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/bin/Release/net6.0/HelloWorld
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/bin/Release/net6.0/HelloWorld.deps.json
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/bin/Release/net6.0/HelloWorld.runtimeconfig.json
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/bin/Release/net6.0/HelloWorld.dll
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/bin/Release/net6.0/HelloWorld.pdb
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.dll
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/refint/HelloWorld.dll
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.pdb
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/ooshimayuma/project/HelloWorld/HelloWorld/obj/Release/net6.0/ref/HelloWorld.dll
